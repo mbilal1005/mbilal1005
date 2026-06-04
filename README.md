@@ -46,6 +46,5 @@ ML model for predicting match outcomes from historical data.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/YOURLINK) · bilalhussain@example.com
+[LinkedIn](https://www.linkedin.com/in/bilal-hussain-1780b622a/) 
 
-*Exchange semester at UC Berkeley · Fall 2026*
